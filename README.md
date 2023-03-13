@@ -16,6 +16,12 @@ ghjlkl
 
 Key: Value
 
+key1
+: value 1
+
+key2
+: value 2
+
 Можно просто писать простой текст
 
 * список
