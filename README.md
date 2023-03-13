@@ -35,3 +35,7 @@ fafa
 color_1 | color_2 | color_3
 :---- | :--: | -:
 red | 1 | 256
+redredredredredred | 1 | 256
+
+red | 1 | 256
+
