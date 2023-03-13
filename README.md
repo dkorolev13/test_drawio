@@ -14,6 +14,9 @@ https://app.diagrams.net/#Hdkorolev13%2Ftest_drawio%2Fmain%2FUntitled_Diagram.dr
 ghjlkl
 > >dsfjdgj
 
+Key
+: Value
+
 Можно просто писать простой текст
 
 * список
